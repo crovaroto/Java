@@ -1,4 +1,4 @@
-package variaveis.tipos.dados;
+package variaveis;
 
 public class casting {
     public static void main(String[] args) {
